@@ -1,0 +1,235 @@
+.hero-container {
+    background-image: url('https://images.pexels.com/photos/17092680/pexels-photo-17092680/free-photo-of-a-road-from-the-tunnel-perspective.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 240px;
+    padding-bottom: 70px;
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+  }
+
+  section
+  {
+    overflow: hidden;
+  }
+
+  h1 {
+    font-size: 64px;
+    font-weight: 700;
+  }
+
+  .navbar {
+    background-color: rgba(0, 0, 0, 0.786);
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .hero-text-wp {
+    width: 55%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+
+  .sign-up-btn {
+    background-color: white;
+    border: 1px solid white;
+  }  
+
+
+  .deals-section {
+    background-color: aliceblue;
+    padding-top: 80px;
+    padding-bottom: 80px
+  }
+
+  .navbar-brand {
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  h2 {
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+ .deals-items-wrapper {
+  position: relative;
+ }
+
+
+
+  .image-1-wp {
+    min-height: 400px;
+  }
+
+  .deal-img-1 {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  .tour-type-section {
+    background-image: url('https://images.pexels.com/photos/2161449/pexels-photo-2161449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-attachment: fixed;
+    height: 500px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    color: white;
+    padding-top: 100px;
+    overflow: visible;
+  }
+
+  .card-container {
+    margin-top: 60px;
+    color: black;
+  }
+
+  .card {
+    padding: 20px;
+    min-height: 250px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .info-section {
+    padding-top: 180px;
+    padding-bottom: 80px;
+  }
+  .info-content{
+    text-align: left;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .explore-sec {
+    padding-bottom: 80px;
+  }
+
+  footer{
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
+  .footer-content-wp {
+    color: white;
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .about-hero {
+    padding-top: 140px;
+    padding-bottom: 80px;
+  }
+
+  h3{
+    color: black;
+  }
+
+  Link {
+    text-decoration: none!important;
+  }
+
+  .deal-link {
+    text-decoration: none !important;
+    color: black;
+  }
+
+  .item-image {
+    object-fit: cover;
+    max-width: 100%;
+    margin-bottom: 35px;
+    max-height: 300px;
+  }
+
+  .items-card {
+    height: 97%;
+    justify-content: space-between;
+  }
+
+  .form-section {
+    padding-top: 140px;
+    padding-bottom: 70px;
+    min-height: 95vh;
+  }
+  input {
+    width: 100%;
+    height: 50px;
+  }
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 6px;
+    border: 1px solid black;
+    padding: 30px;
+    margin: auto;
+    align-items:stretch;
+  }
+
+  textarea {
+    min-height: 200px;
+  }
+
+  .about-hero {
+    min-height: 95vh;
+  }
+
+  .item-image {
+    max-height: 250px;
+    width: 100%;
+  }
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media only screen and (max-width: 1000px) {
+    .tour-type-section {
+      height: 100%;
+  }
+  .hero-container {
+    max-height: 800px ;
+  }
+
+  .hero-text-wp {
+   width: 100%;
+  }
+
+  .info-section {
+    padding-top: 80px;
+  }
+
+  .tour-type-section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+
+  h2 {
+    font: 40px;
+  }
+  .contact-form {
+    width: 100%;
+  }
+  }

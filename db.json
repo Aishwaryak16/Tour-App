@@ -1,0 +1,47 @@
+{
+  "destinations": [
+    {
+      "name": "Moon",
+      "images": "https://images.pexels.com/photos/18051706/pexels-photo-18051706/free-photo-of-moon-in-night-sky.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
+      "distance": "384,400 km",
+      "travel": "3 days"
+    },
+    {
+      "name": "Mars",
+      "images": "https://images.pexels.com/photos/8474487/pexels-photo-8474487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
+      "distance": "225 mil. km",
+      "travel": "9 months"
+    },
+    {
+      "name": "Europa",
+      "images": "https://images.pexels.com/photos/6639047/pexels-photo-6639047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
+      "distance": "628 mil. km",
+      "travel": "3 years"
+    },
+    {
+      "name": "Titan",
+      "images":"https://images.pexels.com/photos/10463590/pexels-photo-10463590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+      "distance": "1.6 bil. km",
+      "travel": "7 years"
+    },
+    {
+      "name": "Mars",
+      "images": "https://images.pexels.com/photos/8474487/pexels-photo-8474487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
+      "distance": "225 mil. km",
+      "travel": "9 months"
+    },
+
+    {
+      "name": "Titan",
+      "images":"https://images.pexels.com/photos/10463590/pexels-photo-10463590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
+      "distance": "1.6 bil. km",
+      "travel": "7 years"
+    }
+  ]
+}
